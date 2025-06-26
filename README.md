@@ -1,4 +1,5 @@
 🏈 Integer Programming Optimization: Fantasy Handegg
+
 This project applies integer programming techniques using Pyomo to solve a fantasy sports team selection problem. The goal is to select a team of American football players that maximizes total expected points, while satisfying strict budget and positional constraints.
 
 📌 Problem Statement
