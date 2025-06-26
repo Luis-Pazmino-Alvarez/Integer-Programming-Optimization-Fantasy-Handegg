@@ -55,3 +55,7 @@ README.md: Project overview and instructions.
 📜 License
 Licensed under the GNU General Public License v3.0.
 
+📬 Contact
+
+Created by Luis Pazmino Alvarez, consultant in finance, economics, and predictive modeling. 
+Connect with me on LinkedIn https://www.linkedin.com/in/luis-pazmino-702838248/.
